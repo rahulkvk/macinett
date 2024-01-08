@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25696411629",
+    "project_id": "test1-33144",
+    "storage_bucket": "test1-33144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25696411629:android:36076e366e94c4470651e4",
+        "android_client_info": {
+          "package_name": "com.example.macinett"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFhwCm8deAJeoEXxvrNwsCRAdQJsQOQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
